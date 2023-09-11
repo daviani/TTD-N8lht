@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "*": ["types/*"]
+    },
+    "outDir": "./dist",
+    "target": "ESNext",
+    "moduleResolution": "node",
+    "strict": true
+  },
+  "include": ["./**/*.ts", "./**/*.tsx"],
+  "exclude": ["node_modules", "dist"]
+}

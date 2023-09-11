@@ -1,0 +1,220 @@
+[
+  {
+    "uuid": "803c4083-f195-43dd-ad54-dc184b08bfd5",
+    "clientId": "ByteTech",
+    "operations": [
+      {
+        "uuid": "7aa1c2ec-7a72-4df7-a3d0-cc82e5cc028c",
+        "operation": 1,
+        "date": "2023-01-15T00:00:00.000Z",
+        "wording": "Salaire",
+        "amount": 2500
+      },
+      {
+        "uuid": "f6392227-448b-4510-9b69-a091560c4f16",
+        "operation": 2,
+        "date": "2023-01-15T00:00:00.000Z",
+        "wording": "Achat de matériel",
+        "amount": -50
+      },
+      {
+        "uuid": "7689b0b0-608a-41a8-8586-f81955c9b939",
+        "operation": 3,
+        "date": "2023-01-15T00:00:00.000Z",
+        "wording": "Dépense de bureau",
+        "amount": -75
+      },
+      {
+        "uuid": "7f8b5281-bc80-493a-b2b4-55a2cb3254fd",
+        "operation": 4,
+        "date": "2023-01-15T00:00:00.000Z",
+        "wording": "Salaire",
+        "amount": 2500
+      },
+      {
+        "uuid": "90f95a78-c382-4068-b6c5-a4fad7b3dbe1",
+        "operation": 5,
+        "date": "2023-01-15T00:00:00.000Z",
+        "wording": "Achat en ligne",
+        "amount": -60
+      },
+      {
+        "uuid": "7197b888-b79a-4be0-a11c-ca0cf3d24225",
+        "operation": 6,
+        "date": "2023-01-15T00:00:00.000Z",
+        "wording": "Dépense de repas",
+        "amount": -80
+      },
+      {
+        "uuid": "0f6b488c-4595-42df-91cc-93619c5868fa",
+        "operation": 7,
+        "date": "2023-01-15T00:00:00.000Z",
+        "wording": "Salaire",
+        "amount": 2500
+      }
+    ],
+    "balances": [
+      {
+        "uuid": "132592dc-19cd-4b6f-a59f-9be78b323bd2",
+        "date": "2023-01-15T00:00:00.000Z",
+        "balance": 2375
+      },
+      {
+        "uuid": "430ad015-b138-4c22-9ef6-49cf8b1a95fd",
+        "date": "2023-01-15T00:00:00.000Z",
+        "balance": 2395
+      },
+      {
+        "uuid": "0159dcde-e1cd-4b62-8480-aca8cf84a7cf",
+        "date": "2023-01-15T00:00:00.000Z",
+        "balance": 2390
+      }
+    ]
+  },
+  {
+    "uuid": "c3db53c4-fdf8-496e-826f-93c9c450c165",
+    "clientId": "EcoGlow",
+    "operations": [
+      {
+        "uuid": "c3c999cd-bcbf-4fe3-98ac-24703dc7f78d",
+        "operation": 1,
+        "date": "2023-01-15T00:00:00.000Z",
+        "wording": "Salaire",
+        "amount": 2500
+      },
+      {
+        "uuid": "0c846e63-9d69-43d8-b19e-b2e5effc1088",
+        "operation": 1,
+        "date": "2023-01-15T00:00:00.000Z",
+        "wording": "Achat de fournitures",
+        "amount": -50
+      },
+      {
+        "uuid": "61102e57-4d53-494f-936f-bb55326fdb00",
+        "operation": 3,
+        "date": "2023-01-15T00:00:00.000Z",
+        "wording": "Dépense de repas",
+        "amount": -75
+      }
+    ],
+    "balances": [
+      {
+        "uuid": "f1f02820-03e8-41d6-94d9-4270458dc1b5",
+        "date": "2023-01-15T00:00:00.000Z",
+        "balance": 2375
+      },
+      {
+        "uuid": "fdcee0aa-9a98-43d1-8d1d-074d313fc06a",
+        "date": "2023-01-15T00:00:00.000Z",
+        "balance": 2395
+      },
+      {
+        "uuid": "28e115d1-6ea0-4728-9900-1497cb52cd5f",
+        "date": "2023-01-15T00:00:00.000Z",
+        "balance": 2390
+      }
+    ]
+  },
+  {
+    "uuid": "4b7d1f26-c0a2-47bf-b165-7140b56cf98e",
+    "clientId": "SkyLabs",
+    "operations": [
+      {
+        "uuid": "7aa1c2ec-7a72-4df7-a3d0-cc82e5cc028c",
+        "operation": 1,
+        "date": "2023-01-15T00:00:00.000Z",
+        "wording": "Salaire",
+        "amount": 2500
+      },
+      {
+        "uuid": "f6392227-448b-4510-9b69-a091560c4f16",
+        "operation": 2,
+        "date": "2023-01-15T00:00:00.000Z",
+        "wording": "Salaire",
+        "amount": -50
+      },
+      {
+        "uuid": "7689b0b0-608a-41a8-8586-f81955c9b939",
+        "operation": 3,
+        "date": "2023-01-15T00:00:00.000Z",
+        "wording": "Dépense de repas",
+        "amount": -75
+      },
+      {
+        "uuid": "46799b22-cc28-46bc-8f21-6f6e9f990849",
+        "operation": 3,
+        "date": "2023-01-15T00:00:00.000Z",
+        "wording": "Dépense de repas",
+        "amount": -75
+      },
+      {
+        "uuid": "421a6cb9-4e9b-447e-b68f-8e14fc9dd7f2",
+        "operation": 3,
+        "date": "2023-01-15T00:00:00.000Z",
+        "wording": "Dépense de repas",
+        "amount": -75
+      }
+    ],
+    "balances": [
+      {
+        "uuid": "132592dc-19cd-4b6f-a59f-9be78b323bd2",
+        "date": "2023-01-15T00:00:00.000Z",
+        "balance": 2375
+      },
+      {
+        "uuid": "430ad015-b138-4c22-9ef6-49cf8b1a95fd",
+        "date": "2023-01-15T00:00:00.000Z",
+        "balance": 2395
+      },
+      {
+        "uuid": "0159dcde-e1cd-4b62-8480-aca8cf84a7cf",
+        "date": "2023-01-15T00:00:00.000Z",
+        "balance": 2390
+      }
+    ]
+  },
+  {
+    "uuid": "c2b68c10-6d91-4a1e-a667-3e936f2cc6c2",
+    "clientId": "SwiftLink",
+    "operations": [
+      {
+        "uuid": "c8bdb93c-b6d5-4cc0-99e1-65538659a159",
+        "operation": 1,
+        "date": "2023-01-15T00:00:00.000Z",
+        "wording": "Salaire",
+        "amount": 2500
+      },
+      {
+        "uuid": "f6392227-448b-4510-9b69-a091560c4f16",
+        "operation": 2,
+        "date": "2023-01-15T00:00:00.000Z",
+        "wording": "Achat en ligne",
+        "amount": 543534354
+      },
+      {
+        "uuid": "7689b0b0-608a-41a8-8586-f81955c9b939",
+        "operation": 3,
+        "date": "2023-01-15T00:00:00.000Z",
+        "wording": "Dépense de repas",
+        "amount": -75
+      }
+    ],
+    "balances": [
+      {
+        "uuid": "132592dc-19cd-4b6f-a59f-9be78b323bd2",
+        "date": "2023-01-15T00:00:00.000Z",
+        "balance": 2375
+      },
+      {
+        "uuid": "430ad015-b138-4c22-9ef6-49cf8b1a95fd",
+        "date": "2023-01-15T00:00:00.000Z",
+        "balance": 2395
+      },
+      {
+        "uuid": "0159dcde-e1cd-4b62-8480-aca8cf84a7cf",
+        "date": "2023-01-15T00:00:00.000Z",
+        "balance": 2390
+      }
+    ]
+  }
+]
