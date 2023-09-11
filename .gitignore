@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# macOS
+.DS_Store
+
+# Expo
+.expo/
+*.jks
+
+# TypeScript
+*.tsbuildinfo
+
+/dist/
+
+# Log files
+logs
+*.log
+
+# Editor-specific
+.idea/
+
+.env
+.env.local
+
+# Monorepo dependencies
+/apps/*/node_modules/
